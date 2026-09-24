@@ -2,9 +2,10 @@
 
 An interactive **Automobile Sales & Performance Analytics Dashboard** developed using **Microsoft Power BI** to analyze sales performance, dealer achievement, customer behavior, vehicle models, and regional sales performance.
 
+
 ## 📊 Dashboard Preview
 
-![Automobile Sales Dashboard](Automobile_Sales_Dashboard.pdf)
+[📄 View Automobile Sales & Performance Dashboard](Automobile%20Sales%20%26%20Performance%20Dashboard.pdf)
 
 ## 🎯 Project Objective
 
