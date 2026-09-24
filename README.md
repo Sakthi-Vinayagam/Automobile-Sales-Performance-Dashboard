@@ -4,7 +4,7 @@ An interactive **Automobile Sales & Performance Analytics Dashboard** developed 
 
 ## 📊 Dashboard Preview
 
-![Automobile Sales Dashboard](Automobile_Sales_Dashboard.png)
+![Automobile Sales Dashboard](Automobile_Sales_Dashboard.pdf)
 
 ## 🎯 Project Objective
 
